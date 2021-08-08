@@ -48,11 +48,11 @@ $ python
 
 ## Usage
 Run
-This will dump `data.pth` file. And then run
+
 ```console
 1) python train.py
 ```
-
+This will dump `data.pth` file. And then run
 ```console
 2) python chat.py
 ```
